@@ -1,0 +1,1 @@
+document.write(unescape("%3Ca%20href%3D%22ht%0Atps%3A%0A//www.xxmh728.com/u.htm%3Fu%3D591%22%20target%3D%22_blank%22%3E%3Cimg%20src%3D%22https%3A//p6.bdxiguaimg.com/img/tos-cn-i-0022/6138cf8621c6434b8c890c5ee3d8698b%7Etplv-noop.gif%22%20width%3D%22100%25%22%20height%3D%22100%22%20border%3D%220%22%20/%3E%3C/a%3E%0A"));
